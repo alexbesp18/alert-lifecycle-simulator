@@ -1,0 +1,6 @@
+{"subject":"alpha","kind":"degraded","fingerprint":"signal-a","at":"slot-1"}
+{"subject":"alpha","kind":"degraded","fingerprint":"signal-a","at":"slot-2"}
+{"subject":"beta","kind":"degraded","fingerprint":"signal-b","at":"slot-2"}
+{"subject":"alpha","kind":"healthy","fingerprint":"clear","at":"slot-3"}
+{"subject":"alpha","kind":"degraded","fingerprint":"signal-a","at":"slot-4"}
+{"subject":"beta","kind":"degraded","fingerprint":"signal-c","at":"slot-4"}
